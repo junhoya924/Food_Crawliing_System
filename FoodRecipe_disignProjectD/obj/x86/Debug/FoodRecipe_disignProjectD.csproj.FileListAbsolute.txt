@@ -1,0 +1,119 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdvertiserPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.ChangePrivateData.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.LoginPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdministratorPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MemberPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MyPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.QAandComplainPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.RegisterPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.SearchPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FoodRecipe_disignProjectD\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csprojResolveAssemblyReference.cache
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdvertiserPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.ChangePrivateData.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.LoginPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdministratorPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MemberPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MyPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Properties.Resources.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.QAandComplainPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.RegisterPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.SearchPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD (2)\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csproj.GenerateResource.Cache
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csprojResolveAssemblyReference.cache
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdvertiserPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.ChangePrivateData.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.LoginPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdministratorPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MemberPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MyPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Properties.Resources.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.QAandComplainPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.RegisterPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.SearchPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csproj.GenerateResource.Cache
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.2\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Recipe.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csprojResolveAssemblyReference.cache
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdvertiserPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.ChangePrivateData.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.LoginPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdministratorPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MemberPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MyPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Properties.Resources.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.QAandComplainPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Recipe.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.RegisterPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.SearchPage.resources
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csproj.GenerateResource.Cache
+C:\Users\Fani\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.3\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.makeRecipe.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csprojResolveAssemblyReference.cache
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdvertiserPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.ChangePrivateData.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.LoginPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdministratorPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.makeRecipe.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MemberPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MyPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Properties.Resources.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.QAandComplainPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Recipe.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.RegisterPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.SearchPage.resources
+C:\Users\최록산\Documents\카카오톡 받은 파일\FoodRecipe_disignProjectD v.4\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.exe
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\bin\Debug\FoodRecipe_disignProjectD.pdb
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdvertiserPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.ChangePrivateData.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.LoginPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdministratorPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.makeRecipe.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MemberPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MyPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Properties.Resources.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.QAandComplainPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Recipe.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.RegisterPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.SearchPage.resources
+C:\Users\Administrator\Desktop\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csproj.GenerateResource.Cache
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.exe
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.pdb
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csprojResolveAssemblyReference.cache
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdvertiserPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.ChangePrivateData.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.LoginPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.AdministratorPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.makeRecipe.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MemberPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.MyPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Properties.Resources.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.QAandComplainPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.Recipe.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.RegisterPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.SearchPage.resources
+D:\김준호\대학교\3학년\설프D\[DP]2012104060_고세원_2012104079_김준호_최종발표\FoodRecipe_disignProjectD\obj\x86\Debug\FoodRecipe_disignProjectD.csproj.GenerateResource.Cache
